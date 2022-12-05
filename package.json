@@ -2,7 +2,7 @@
   "name": "assignment2_backend",
   "version": "1.0.0",
   "description": "backend for assignment 2",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
